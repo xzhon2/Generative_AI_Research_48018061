@@ -79,7 +79,7 @@ Generative_AI_Research_48018061/
 
 ## Collaboration Guidelines
 
-The `README.md` file provides an overview of the repository and guidelines for collaboration.
+The `README.md` file provides an overview of the repository, explains its structure and key files, and includes collaboration guidelines for keeping the project synchronised, organised, and easy to review.
 
 When contributing to this project:
 
@@ -88,3 +88,36 @@ When contributing to this project:
 - Keep raw data separate from cleaned or processed data.
 - Record major changes to datasets, reports, or analysis files.
 - Respect privacy and confidentiality when handling participant materials.
+
+### Branching
+
+- Create a new branch before making major changes.
+- Use short, descriptive branch names such as `add-survey-data`, `update-literature-review`, or `revise-final-report`.
+- Avoid working directly on the main branch unless the change is very small and agreed by the team.
+
+### Pull Requests
+
+- Open a pull request when a branch is ready to be reviewed.
+- Summarise what changed and why the change is needed.
+- Mention any files, datasets, or reports that reviewers should check carefully.
+- Wait for review before merging important changes.
+
+### Commit Messages
+
+- Write clear commit messages that describe the purpose of the change.
+- Use messages such as `Add interview protocol template`, `Update cleaned survey dataset`, or `Revise final report summary`.
+- Keep commits focused on one task where possible so the project history stays readable.
+
+### Merge Conflicts
+
+- Resolve merge conflicts carefully by checking both versions of the file.
+- Keep the most accurate and up-to-date content.
+- Ask another team member to review the file if the conflict affects data, analysis, or final report text.
+- Test or preview files after resolving conflicts to make sure nothing was accidentally removed.
+
+### Keeping the Repository Synchronised
+
+- Pull the latest changes before starting new work.
+- Push completed work regularly so collaborators can access updated files.
+- Check repository status before switching tasks or branches.
+- Keep folders tidy by removing duplicate drafts, outdated exports, and incorrectly placed files.
