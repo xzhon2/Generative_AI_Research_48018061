@@ -1,0 +1,4 @@
+media_id,title,type,source_or_location,notes
+M001,Introductory project slide,Presentation,Internal draft,Used to explain project aims
+M002,AI workflow screenshot,Image,Research notes,Shows example interaction with a generative AI tool
+M003,Interview prompt audio,Audio,Field materials,Optional spoken version of interview prompts
