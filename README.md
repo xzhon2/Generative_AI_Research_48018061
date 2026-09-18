@@ -76,3 +76,15 @@ Generative_AI_Research_48018061/
 - Keep participant data de-identified where possible.
 - Use clear file names with dates or version numbers for major drafts.
 - Avoid storing sensitive personal information unless it is required and properly protected.
+
+## Collaboration Guidelines
+
+The `README.md` file provides an overview of the repository and guidelines for collaboration.
+
+When contributing to this project:
+
+- Place files in the folder that best matches their purpose.
+- Use descriptive file names so materials are easy to identify.
+- Keep raw data separate from cleaned or processed data.
+- Record major changes to datasets, reports, or analysis files.
+- Respect privacy and confidentiality when handling participant materials.
